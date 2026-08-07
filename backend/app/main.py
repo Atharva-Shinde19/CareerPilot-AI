@@ -1,13 +1,17 @@
 from fastapi import FastAPI
 
+from app.database.database import engine, Base
+import app.models
+
+Base.metadata.create_all(bind=engine)
+
 app = FastAPI(
-    title="CareerPilot AI API",
-    version="1.0.0",
-    description="Backend API for CareerPilot AI"
+    title="CareerPilot AI"
 )
+
 
 @app.get("/")
 def root():
     return {
-        "message": "CareerPilot AI Backend Running 🚀"
+        "message": "CareerPilot Backend Running"
     }
