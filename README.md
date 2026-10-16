@@ -77,159 +77,183 @@ CareerPilot AI combines resume intelligence, AI-assisted learning roadmaps, skil
 
 ## 🖥️ Application Screenshots
 
-Explore CareerPilot AI through the interactive screenshot gallery. Scroll horizontally to discover the different features.
+Explore CareerPilot AI through the application screenshots. Scroll horizontally to explore each feature, and click any image to view it in full size.
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/home.png">
-        <img src="ScreenShots/home.png" width="5000" alt="CareerPilot AI Home"/>
+        <img src="ScreenShots/home.png" width="400" alt="CareerPilot AI Home"/>
       </a>
-      <br/><b>🏠 Home</b>
+      <br/>
+      <strong>🏠 Home</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/PlacementHome.png">
-        <img src="ScreenShots/PlacementHome.png" width="5000" alt="Placement Dashboard"/>
+        <img src="ScreenShots/PlacementHome.png" width="400" alt="Placement Dashboard"/>
       </a>
-      <br/><b>🎯 Placement Dashboard</b>
+      <br/>
+      <strong>🎯 Placement Dashboard</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/PlacementPrep2.png">
-        <img src="ScreenShots/PlacementPrep2.png" width="240" alt="Placement Preparation"/>
+        <img src="ScreenShots/PlacementPrep2.png" width="400" alt="Placement Preparation"/>
       </a>
-      <br/><b>📚 Placement Prep</b>
+      <br/>
+      <strong>📚 Placement Preparation</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/ResumeAnalysis1.png">
-        <img src="ScreenShots/ResumeAnalysis1.png" width="240" alt="Resume Analysis"/>
+        <img src="ScreenShots/ResumeAnalysis1.png" width="400" alt="Resume Analysis"/>
       </a>
-      <br/><b>📄 Resume Analysis</b>
+      <br/>
+      <strong>📄 Resume Analysis</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/ResumeAnalysisResult1.png">
-        <img src="ScreenShots/ResumeAnalysisResult1.png" width="240" alt="Resume Analysis Results"/>
+        <img src="ScreenShots/ResumeAnalysisResult1.png" width="400" alt="Resume Analysis Results"/>
       </a>
-      <br/><b>📊 Resume Results</b>
+      <br/>
+      <strong>📊 Resume Results</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/ResumeAnalysisResult2.png">
-        <img src="ScreenShots/ResumeAnalysisResult2.png" width="240" alt="Resume Analysis Details"/>
+        <img src="ScreenShots/ResumeAnalysisResult2.png" width="400" alt="Resume Analysis Insights"/>
       </a>
-      <br/><b>🔍 Resume Insights</b>
+      <br/>
+      <strong>🔍 Resume Insights</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/Roadmap.png">
-        <img src="ScreenShots/Roadmap.png" width="240" alt="Career Roadmap"/>
+        <img src="ScreenShots/Roadmap.png" width="400" alt="Career Roadmap"/>
       </a>
-      <br/><b>🗺️ Career Roadmap</b>
+      <br/>
+      <strong>🗺️ Career Roadmap</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/RoadMapResult1.png">
-        <img src="ScreenShots/RoadMapResult1.png" width="240" alt="Career Roadmap Results"/>
+        <img src="ScreenShots/RoadMapResult1.png" width="400" alt="Roadmap Results"/>
       </a>
-      <br/><b>🧭 Roadmap Results</b>
+      <br/>
+      <strong>🧭 Roadmap Results</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/RoadmapResult2.png">
-        <img src="ScreenShots/RoadmapResult2.png" width="240" alt="Career Roadmap Details"/>
+        <img src="ScreenShots/RoadmapResult2.png" width="400" alt="Detailed Career Roadmap"/>
       </a>
-      <br/><b>📌 Roadmap Details</b>
+      <br/>
+      <strong>📌 Roadmap Details</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/AP1.png">
-        <img src="ScreenShots/AP1.png" width="240" alt="Aptitude Preparation Home"/>
+        <img src="ScreenShots/AP1.png" width="400" alt="Aptitude Preparation Home"/>
       </a>
-      <br/><b>🧠 Aptitude Prep</b>
+      <br/>
+      <strong>🧠 Aptitude Preparation Home</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/AP2.png">
-        <img src="ScreenShots/AP2.png" width="240" alt="Aptitude Preparation"/>
+        <img src="ScreenShots/AP2.png" width="400" alt="Aptitude Practice"/>
       </a>
-      <br/><b>📝 Aptitude Practice</b>
+      <br/>
+      <strong>📝 Aptitude Practice</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/AP3.png">
-        <img src="ScreenShots/AP3.png" width="240" alt="Aptitude Practice Screen"/>
+        <img src="ScreenShots/AP3.png" width="400" alt="Aptitude Practice Screen"/>
       </a>
-      <br/><b>🎯 Practice Session</b>
+      <br/>
+      <strong>🎯 Aptitude Practice Session</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/APres.png">
-        <img src="ScreenShots/APres.png" width="240" alt="Aptitude Results"/>
+        <img src="ScreenShots/APres.png" width="400" alt="Aptitude Results"/>
       </a>
-      <br/><b>📈 Aptitude Results</b>
+      <br/>
+      <strong>📈 Aptitude Results</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/DSA1.png">
-        <img src="ScreenShots/DSA1.png" width="240" alt="DSA Preparation"/>
+        <img src="ScreenShots/DSA1.png" width="400" alt="DSA Preparation"/>
       </a>
-      <br/><b>💻 DSA Preparation</b>
+      <br/>
+      <strong>💻 DSA Preparation</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/LB1.png">
-        <img src="ScreenShots/LB1.png" width="240" alt="Leaderboard"/>
+        <img src="ScreenShots/LB1.png" width="400" alt="Leaderboard"/>
       </a>
-      <br/><b>🏆 Leaderboard</b>
+      <br/>
+      <strong>🏆 Leaderboard</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/ML1.png">
-        <img src="ScreenShots/ML1.png" width="240" alt="Machine Learning Preparation"/>
+        <img src="ScreenShots/ML1.png" width="400" alt="Machine Learning Preparation"/>
       </a>
-      <br/><b>🤖 ML Preparation</b>
+      <br/>
+      <strong>🤖 Machine Learning Preparation</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/MockInter1.png">
-        <img src="ScreenShots/MockInter1.png" width="240" alt="Mock Interview"/>
+        <img src="ScreenShots/MockInter1.png" width="400" alt="Mock Interview"/>
       </a>
-      <br/><b>🎤 Mock Interview</b>
+      <br/>
+      <strong>🎤 Mock Interview</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/OA.png">
-        <img src="ScreenShots/OA.png" width="240" alt="Online Assessment"/>
+        <img src="ScreenShots/OA.png" width="400" alt="Online Assessment"/>
       </a>
-      <br/><b>🧪 Online Assessment</b>
+      <br/>
+      <strong>🧪 Online Assessment</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/OA!.png">
-        <img src="ScreenShots/OA!.png" width="240" alt="Online Assessment Screen"/>
+        <img src="ScreenShots/OA!.png" width="400" alt="Online Assessment Interface"/>
       </a>
-      <br/><b>✍️ Assessment Practice</b>
+      <br/>
+      <strong>✍️ Assessment Interface</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/OA2.png">
-        <img src="ScreenShots/OA2.png" width="240" alt="Assessment Questions"/>
+        <img src="ScreenShots/OA2.png" width="400" alt="Assessment Questions"/>
       </a>
-      <br/><b>📋 Assessment Questions</b>
+      <br/>
+      <strong>📋 Assessment Questions</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/OAres.png">
-        <img src="ScreenShots/OAres.png" width="240" alt="Assessment Results"/>
+        <img src="ScreenShots/OAres.png" width="400" alt="Assessment Results"/>
       </a>
-      <br/><b>📊 Assessment Results</b>
+      <br/>
+      <strong>📊 Assessment Results</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/backend1.png">
-        <img src="ScreenShots/backend1.png" width="240" alt="Backend Interface"/>
+        <img src="ScreenShots/backend1.png" width="400" alt="Backend Interface"/>
       </a>
-      <br/><b>⚙️ Backend</b>
+      <br/>
+      <strong>⚙️ Backend</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/mlres.png">
-        <img src="ScreenShots/mlres.png" width="240" alt="Machine Learning Results"/>
+        <img src="ScreenShots/mlres.png" width="400" alt="Machine Learning Results"/>
       </a>
-      <br/><b>🧠 ML Results</b>
+      <br/>
+      <strong>🧠 Machine Learning Results</strong>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="420">
       <a href="ScreenShots/prof.png">
-        <img src="ScreenShots/prof.png" width="240" alt="User Profile"/>
+        <img src="ScreenShots/prof.png" width="400" alt="User Profile"/>
       </a>
-      <br/><b>👤 User Profile</b>
+      <br/>
+      <strong>👤 User Profile</strong>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <i>Click any screenshot to open the full-size image.</i>
+  <em>Click any screenshot to view the full-size image.</em>
 </p>
 ## 🛠️ Tech Stack
 
