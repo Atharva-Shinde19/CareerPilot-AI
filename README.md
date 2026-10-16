@@ -77,20 +77,159 @@ CareerPilot AI combines resume intelligence, AI-assisted learning roadmaps, skil
 
 ## 🖥️ Application Screenshots
 
-Explore CareerPilot AI's interface and features.
+Explore CareerPilot AI through the interactive screenshot gallery. Scroll horizontally to discover the different features.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="ScreenShots/home.png">
+        <img src="ScreenShots/home.png" width="240" alt="CareerPilot AI Home"/>
+      </a>
+      <br/><b>🏠 Home</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/PlacementHome.png">
+        <img src="ScreenShots/PlacementHome.png" width="240" alt="Placement Dashboard"/>
+      </a>
+      <br/><b>🎯 Placement Dashboard</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/PlacementPrep2.png">
+        <img src="ScreenShots/PlacementPrep2.png" width="240" alt="Placement Preparation"/>
+      </a>
+      <br/><b>📚 Placement Prep</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/ResumeAnalysis1.png">
+        <img src="ScreenShots/ResumeAnalysis1.png" width="240" alt="Resume Analysis"/>
+      </a>
+      <br/><b>📄 Resume Analysis</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/ResumeAnalysisResult1.png">
+        <img src="ScreenShots/ResumeAnalysisResult1.png" width="240" alt="Resume Analysis Results"/>
+      </a>
+      <br/><b>📊 Resume Results</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/ResumeAnalysisResult2.png">
+        <img src="ScreenShots/ResumeAnalysisResult2.png" width="240" alt="Resume Analysis Details"/>
+      </a>
+      <br/><b>🔍 Resume Insights</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/Roadmap.png">
+        <img src="ScreenShots/Roadmap.png" width="240" alt="Career Roadmap"/>
+      </a>
+      <br/><b>🗺️ Career Roadmap</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/RoadMapResult1.png">
+        <img src="ScreenShots/RoadMapResult1.png" width="240" alt="Career Roadmap Results"/>
+      </a>
+      <br/><b>🧭 Roadmap Results</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/RoadmapResult2.png">
+        <img src="ScreenShots/RoadmapResult2.png" width="240" alt="Career Roadmap Details"/>
+      </a>
+      <br/><b>📌 Roadmap Details</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/AP1.png">
+        <img src="ScreenShots/AP1.png" width="240" alt="Aptitude Preparation Home"/>
+      </a>
+      <br/><b>🧠 Aptitude Prep</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/AP2.png">
+        <img src="ScreenShots/AP2.png" width="240" alt="Aptitude Preparation"/>
+      </a>
+      <br/><b>📝 Aptitude Practice</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/AP3.png">
+        <img src="ScreenShots/AP3.png" width="240" alt="Aptitude Practice Screen"/>
+      </a>
+      <br/><b>🎯 Practice Session</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/APres.png">
+        <img src="ScreenShots/APres.png" width="240" alt="Aptitude Results"/>
+      </a>
+      <br/><b>📈 Aptitude Results</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/DSA1.png">
+        <img src="ScreenShots/DSA1.png" width="240" alt="DSA Preparation"/>
+      </a>
+      <br/><b>💻 DSA Preparation</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/LB1.png">
+        <img src="ScreenShots/LB1.png" width="240" alt="Leaderboard"/>
+      </a>
+      <br/><b>🏆 Leaderboard</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/ML1.png">
+        <img src="ScreenShots/ML1.png" width="240" alt="Machine Learning Preparation"/>
+      </a>
+      <br/><b>🤖 ML Preparation</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/MockInter1.png">
+        <img src="ScreenShots/MockInter1.png" width="240" alt="Mock Interview"/>
+      </a>
+      <br/><b>🎤 Mock Interview</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/OA.png">
+        <img src="ScreenShots/OA.png" width="240" alt="Online Assessment"/>
+      </a>
+      <br/><b>🧪 Online Assessment</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/OA!.png">
+        <img src="ScreenShots/OA!.png" width="240" alt="Online Assessment Screen"/>
+      </a>
+      <br/><b>✍️ Assessment Practice</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/OA2.png">
+        <img src="ScreenShots/OA2.png" width="240" alt="Assessment Questions"/>
+      </a>
+      <br/><b>📋 Assessment Questions</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/OAres.png">
+        <img src="ScreenShots/OAres.png" width="240" alt="Assessment Results"/>
+      </a>
+      <br/><b>📊 Assessment Results</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/backend1.png">
+        <img src="ScreenShots/backend1.png" width="240" alt="Backend Interface"/>
+      </a>
+      <br/><b>⚙️ Backend</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/mlres.png">
+        <img src="ScreenShots/mlres.png" width="240" alt="Machine Learning Results"/>
+      </a>
+      <br/><b>🧠 ML Results</b>
+    </td>
+    <td align="center">
+      <a href="ScreenShots/prof.png">
+        <img src="ScreenShots/prof.png" width="240" alt="User Profile"/>
+      </a>
+      <br/><b>👤 User Profile</b>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="screenshots/demo.gif">
-    <img src="ScreenShots/home.png" width="90%" alt="CareerPilot AI Homepage" />
-  </a>
-
-  <a href="screenshots/demo.gif">
-    <img src="ScreenShots/ResumeAnalysis1.png" width="90%" alt="Resume Analysis Home" />
-  </a>
-</p>
-
-<p align="center">
-  <em>A quick walkthrough of CareerPilot AI's key features.</em>
+  <i>Click any screenshot to open the full-size image.</i>
 </p>
 ## 🛠️ Tech Stack
 
