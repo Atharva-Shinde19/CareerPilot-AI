@@ -83,6 +83,10 @@ Explore CareerPilot AI's interface and features.
   <a href="screenshots/demo.gif">
     <img src="ScreenShots/home.png" width="90%" alt="CareerPilot AI Homepage" />
   </a>
+
+  <a href="screenshots/demo.gif">
+    <img src="ScreenShots/ResumeAnalysis1.png" width="90%" alt="Resume Analysis Home" />
+  </a>
 </p>
 
 <p align="center">
