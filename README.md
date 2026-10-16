@@ -83,13 +83,13 @@ Explore CareerPilot AI through the interactive screenshot gallery. Scroll horizo
   <tr>
     <td align="center">
       <a href="ScreenShots/home.png">
-        <img src="ScreenShots/home.png" width="500" alt="CareerPilot AI Home"/>
+        <img src="ScreenShots/home.png" width="5000" alt="CareerPilot AI Home"/>
       </a>
       <br/><b>🏠 Home</b>
     </td>
     <td align="center">
       <a href="ScreenShots/PlacementHome.png">
-        <img src="ScreenShots/PlacementHome.png" width="500" alt="Placement Dashboard"/>
+        <img src="ScreenShots/PlacementHome.png" width="5000" alt="Placement Dashboard"/>
       </a>
       <br/><b>🎯 Placement Dashboard</b>
     </td>
