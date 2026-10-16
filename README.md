@@ -81,15 +81,15 @@ Explore CareerPilot AI's interface and features.
 
 <p align="center">
   <a href="screenshots/dashboard.png">
-    <img src="ScreenShots/home.png" width="46%" alt="CareerPilot AI Dashboard" />
+    <img src="ScreenShots/home.png" width="46%" alt="CareerPilot AI Homeopage" />
   </a>
   &nbsp;
   <a href="screenshots/resume-analysis.png">
-    <img src="screenshots/resume-analysis.png" width="46%" alt="Resume Analysis" />
+    <img src="ScreenShots/ResumeAnalysis1.png" width="46%" alt="Resume Analysis" />
   </a>
   <br/><br/>
   <a href="screenshots/career-roadmap.png">
-    <img src="screenshots/career-roadmap.png" width="46%" alt="AI Career Roadmap" />
+    <img src="ScreenShots/ResumeAnalysisResult1.png" width="46%" alt="Resume Analysis Result 1" />
   </a>
   &nbsp;
   <a href="screenshots/analytics.png">
