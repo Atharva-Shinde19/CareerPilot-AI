@@ -81,14 +81,14 @@ Explore CareerPilot AI through the application screenshots. Scroll horizontally 
 
 <table>
   <tr>
-    <td align="center" valign="top" width="420">
+    <td align="center" valign="top" width="700">
       <a href="ScreenShots/home.png">
         <img src="ScreenShots/home.png" width="400" alt="CareerPilot AI Home"/>
       </a>
       <br/>
       <strong>🏠 Home</strong>
     </td>
-    <td align="center" valign="top" width="420">
+    <td align="center" valign="top" width="700">
       <a href="ScreenShots/PlacementHome.png">
         <img src="ScreenShots/PlacementHome.png" width="400" alt="Placement Dashboard"/>
       </a>
