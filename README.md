@@ -80,41 +80,13 @@ CareerPilot AI combines resume intelligence, AI-assisted learning roadmaps, skil
 Explore CareerPilot AI's interface and features.
 
 <p align="center">
-  <a href="screenshots/dashboard.png">
-    <img src="ScreenShots/home.png" width="46%" alt="CareerPilot AI Homeopage" />
-  </a>
-  &nbsp;
-  <a href="screenshots/resume-analysis.png">
-    <img src="ScreenShots/ResumeAnalysis1.png" width="46%" alt="Resume Analysis" />
-  </a>
-  <br/><br/>
-  <a href="screenshots/career-roadmap.png">
-    <img src="ScreenShots/ResumeAnalysisResult1.png" width="46%" alt="Resume Analysis Result 1" />
-  </a>
-  &nbsp;
-  <a href="screenshots/analytics.png">
-    <img src="screenshots/analytics.png" width="46%" alt="Career Analytics" />
-  </a>
-  <br/><br/>
-  <a href="screenshots/skill-gap.png">
-    <img src="screenshots/skill-gap.png" width="46%" alt="Skill Gap Analysis" />
-  </a>
-  &nbsp;
-  <a href="screenshots/mock-assessment.png">
-    <img src="screenshots/mock-assessment.png" width="46%" alt="Mock Assessment" />
-  </a>
-  <br/><br/>
-  <a href="screenshots/mock-interview.png">
-    <img src="screenshots/mock-interview.png" width="46%" alt="AI Mock Interview" />
-  </a>
-  &nbsp;
-  <a href="screenshots/profile.png">
-    <img src="screenshots/profile.png" width="46%" alt="User Profile" />
+  <a href="screenshots/demo.gif">
+    <img src="ScreenShots/home.png" width="90%" alt="CareerPilot AI Homepage" />
   </a>
 </p>
 
 <p align="center">
-  <em>Click any screenshot to view it in full size.</em>
+  <em>A quick walkthrough of CareerPilot AI's key features.</em>
 </p>
 ## 🛠️ Tech Stack
 
