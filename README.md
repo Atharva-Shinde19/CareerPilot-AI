@@ -81,7 +81,7 @@ Explore CareerPilot AI's interface and features.
 
 <p align="center">
   <a href="screenshots/dashboard.png">
-    <img src="screenshots/dashboard.png" width="46%" alt="CareerPilot AI Dashboard" />
+    <img src="ScreenShots/home.png" width="46%" alt="CareerPilot AI Dashboard" />
   </a>
   &nbsp;
   <a href="screenshots/resume-analysis.png">
