@@ -75,36 +75,47 @@ CareerPilot AI combines resume intelligence, AI-assisted learning roadmaps, skil
 - Track assessment and interview performance.
 - Review personalized career recommendations.
 
-## 🖥️ Screenshots
+## 🖥️ Application Screenshots
 
-Explore the CareerPilot AI interface below. Add your actual application screenshots to the `screenshots/` folder using the filenames shown here.
-
-### 🏠 Dashboard
+Explore CareerPilot AI's interface and features.
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="CareerPilot AI Dashboard" width="100%" />
+  <a href="screenshots/dashboard.png">
+    <img src="screenshots/dashboard.png" width="46%" alt="CareerPilot AI Dashboard" />
+  </a>
+  &nbsp;
+  <a href="screenshots/resume-analysis.png">
+    <img src="screenshots/resume-analysis.png" width="46%" alt="Resume Analysis" />
+  </a>
+  <br/><br/>
+  <a href="screenshots/career-roadmap.png">
+    <img src="screenshots/career-roadmap.png" width="46%" alt="AI Career Roadmap" />
+  </a>
+  &nbsp;
+  <a href="screenshots/analytics.png">
+    <img src="screenshots/analytics.png" width="46%" alt="Career Analytics" />
+  </a>
+  <br/><br/>
+  <a href="screenshots/skill-gap.png">
+    <img src="screenshots/skill-gap.png" width="46%" alt="Skill Gap Analysis" />
+  </a>
+  &nbsp;
+  <a href="screenshots/mock-assessment.png">
+    <img src="screenshots/mock-assessment.png" width="46%" alt="Mock Assessment" />
+  </a>
+  <br/><br/>
+  <a href="screenshots/mock-interview.png">
+    <img src="screenshots/mock-interview.png" width="46%" alt="AI Mock Interview" />
+  </a>
+  &nbsp;
+  <a href="screenshots/profile.png">
+    <img src="screenshots/profile.png" width="46%" alt="User Profile" />
+  </a>
 </p>
-
-### 📄 Resume Analysis
 
 <p align="center">
-  <img src="screenshots/resume-analysis.png" alt="CareerPilot AI Resume Analysis" width="100%" />
+  <em>Click any screenshot to view it in full size.</em>
 </p>
-
-### 🗺️ AI-Generated Career Roadmap
-
-<p align="center">
-  <img src="screenshots/career-roadmap.png" alt="CareerPilot AI Career Roadmap" width="100%" />
-</p>
-
-### 📊 Progress & Analytics
-
-<p align="center">
-  <img src="screenshots/analytics.png" alt="CareerPilot AI Analytics Dashboard" width="100%" />
-</p>
-
-> **Note:** These image paths are placeholders for your screenshots. Upload the corresponding image files before publishing the README, or remove any sections you have not captured yet.
-
 ## 🛠️ Tech Stack
 
 | Category | Technology |
